@@ -1,7 +1,7 @@
 <h1>Hola 👋, Soy Brayan</h1>
 <h2>Full Stack Web Developer</h2>
-
-<p>Soy un apasionado de la programación y la tecnología. Estoy en etapas finales del Bootcamp Soy Henry, también egresé de la carrera técnica de computación e informática. Busco una oportunidad para poner en práctica lo aprendido y llegar a ser un gran profesional en la industria.</p>
+<p>Soy un apasionado por la programación y la tecnología. Me encanta desarrollar páginas y aplicaciones web tanto en la parte del Frontend, como en el Backend; manejando diferentes tecnologías como HTML5, CSS3, Javascript, React js, Node js, PHP, Java y SQL.</p>
+<img src="https://ximhai.com/img/programando.gif" alt="tecnologias_web" />
 <h2>Skills</h2>
 <p style="text-align:center;">
   <img src="https://scontent.flim12-1.fna.fbcdn.net/v/t39.30808-6/311780448_1282046705904415_2651697978016111115_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGyYIaaPZ4yFoz_yv1zQ7QnXWq2jYie2MpdaraNiJ7YykNg3DGjnV1vQGq7_AbpwqDAh_mwFooPru4_4SyW7wLw&_nc_ohc=PfEuGmyiCN8AX9Am2tA&_nc_ht=scontent.flim12-1.fna&oh=00_AT9Ysy0KOUbYqx4qUZOMFgDuW6ygXOO-_sBALqNtrKuC9Q&oe=635BD82A" alt="tecnologias_web" width="800px" />
