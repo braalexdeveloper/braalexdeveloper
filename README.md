@@ -13,7 +13,7 @@
   <img src="https://brayanqrweb.000webhostapp.com/img/donquijote.jpg" alt="don_quijote"/>
   </a>
   <br><br>
-  <a href="https://pokemon-dusky-ten.vercel.app/" target="_blank">PokeApp</a>
+  <a href="https://pokemon-2023.vercel.app/" target="_blank">PokeApp</a>
   <p>Proyecto Individual realizado en el bootcamp Soy Henry.</p>
   <a href="https://pokemon-2023.vercel.app/" target="_blank">
   <img src="https://brayanqrweb.000webhostapp.com/img/pokemon.jpg" alt="pokeapp"/>
